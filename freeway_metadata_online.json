@@ -1,0 +1,25 @@
+{
+  "name": "The Freeway Token",
+  "symbol": "FRWY",
+  "description": "The Freeway Token ($FRWY) is a revolutionary digital asset created to support and fund the 'From Streets to Success' prison reform program. Spearheaded by Rick Ross, $FRWY aims to reduce recidivism and promote societal well-being through education, vocational training, entrepreneurship, mental health services, and community reintegration initiatives. By leveraging cryptocurrency, $FRWY generates wealth for its holders while channeling resources towards comprehensive rehabilitation efforts.",
+  "image": "ipfs://path_to_image",  // Replace with actual image URL
+  "properties": {
+    "blockchain": "Solana",
+    "utility": [
+      "Funds educational and vocational programs for inmates",
+      "Supports mental health and substance abuse treatment",
+      "Facilitates family and community reintegration",
+      "Advocates for criminal justice policy reform"
+    ],
+    "benefits": [
+      "Financial growth for token holders",
+      "Access to exclusive services and events",
+      "Community-driven support for social change"
+    ],
+    "strategic_alignment": "Built on the Solana blockchain for high transaction speed and low costs",
+    "call_to_action": "Join the movement by investing in $FRWY, spreading awareness, and supporting the mission of transforming lives through comprehensive prison reform."
+  },
+  "website": "https://yourwebsite.com",  // Replace with actual website URL
+  "whitepaper": "ipfs://path_to_whitepaper"  // Replace with actual whitepaper URL
+}
+
